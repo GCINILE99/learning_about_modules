@@ -1,0 +1,21 @@
+{
+  "name": "learning_about_modules",
+  "version": "1.0.0",
+  "description": "",
+  "type" : "module",
+  "main": "greet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GCINILE99/learning_about_modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GCINILE99/learning_about_modules/issues"
+  },
+  "homepage": "https://github.com/GCINILE99/learning_about_modules#readme"
+}
